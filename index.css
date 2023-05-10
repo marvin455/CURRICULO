@@ -1,7 +1,7 @@
 body {
- color:  white;
- background-color: black;
- font-family: Arial, Helvetica, sans-serif;
+   background-image: linear-gradient(45deg, rgb(120, 150, 125), rgb(19, 18, 18));
+   color: rgb(238, 238, 238);
+
 }
 ul{
  display: flex;
@@ -14,6 +14,7 @@ padding : 16px;
 a { 
    color: white;
    text-decoration: none;
+   
 }
 header img{
    width: 150px;
